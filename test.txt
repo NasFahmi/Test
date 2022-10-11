@@ -10,13 +10,5 @@
 96
 9
 67
-testinggg
 
-
-testing dari github deskop
-
-
-
-
-
-comit dari web 
+testing dari aplikasi ke 2
