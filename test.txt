@@ -2,11 +2,12 @@
 2
 3
 4566
-
-76
-86
-8
+konflik brranch 
 
 
 
-ini merge conflict
+
+konflik branch
+
+
+konflik branck
