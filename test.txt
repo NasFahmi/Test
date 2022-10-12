@@ -6,9 +6,7 @@
 76
 86
 8
-6
-96
-9
-67
 
-bismillah 
+
+
+ini merge conflict
